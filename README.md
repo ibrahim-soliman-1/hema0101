@@ -21,12 +21,74 @@
 
 ## 🚀 About Me
 
-Passionate **DevOps Engineer** and **Frontend Developer** with expertise in cloud infrastructure, CI/CD automation, and modern web development. I specialize in bridging the gap between development and operations, delivering scalable solutions with clean, maintainable code.
+```typescript
+const Ibrahim = {
+    location: "Qaliuobia, Egypt 🇪🇬",
+    role: "DevOps Engineer & Frontend Developer",
+    education: "B.Sc. Computer Science @ October 6 University",
+    
+    currentFocus: [
+        "Building CI/CD Pipelines",
+        "Cloud Infrastructure Automation",
+        "Container Orchestration",
+        "Modern Web Applications"
+    ],
+    
+    expertise: {
+        devOps: ["Docker", "Kubernetes", "Jenkins", "Terraform", "Ansible"],
+        cloud: ["AWS", "Lambda", "EC2"],
+        frontend: ["React.js", "TypeScript", "Modern ES6+"],
+        backend: ["Node.js", "MongoDB", "RESTful APIs"],
+        linux: ["LPIC-1", "LPIC-2 Certified"]
+    },
+    
+    certifications: [
+        "DEPI DevOps Track - Ministry of ICT",
+        "Linux Professional Institute Certification (LPIC-1 & 2)"
+    ],
+    
+    achievements: [
+        "✅ Designed end-to-end DevOps pipelines from scratch",
+        "✅ Automated AWS infrastructure with IaC",
+        "✅ Built production-ready React applications",
+        "✅ Containerized & orchestrated microservices"
+    ],
+    
+    passions: [
+        "Infrastructure Automation 🤖",
+        "Clean Code Architecture 📐",
+        "Cloud-Native Solutions ☁️",
+        "Open Source Contributions 🌟"
+    ],
+    
+    funFact: "I believe every manual task is just an automation waiting to happen! 🚀"
+};
+```
 
-- 🔭 Currently working on DevOps automation and cloud infrastructure projects
-- 🌱 Learning advanced Kubernetes orchestration and infrastructure optimization
-- 💡 Interested in Infrastructure as Code, Container Orchestration, and Cloud-Native Applications
-- 🎓 Bachelor's degree in Computer Science from October 6 University
+### 💡 What I Do
+
+🔧 **DevOps Engineering:** Architecting robust CI/CD pipelines, automating infrastructure with Terraform & Ansible, and orchestrating containerized applications with Docker & Kubernetes.
+
+🎨 **Frontend Development:** Crafting responsive, user-centric web applications using React.js, TypeScript, and modern web technologies with a focus on performance and accessibility.
+
+☁️ **Cloud Solutions:** Deploying scalable, fault-tolerant applications on AWS, leveraging services like EC2, Lambda, and implementing infrastructure as code.
+
+🐧 **Linux Administration:** Managing and optimizing Linux servers with LPIC-1 & LPIC-2 certification, ensuring security, performance, and reliability.
+
+### 🎯 My Mission
+
+Bridging the gap between development and operations to deliver seamless, automated, and scalable solutions. I'm passionate about:
+- 🚀 Automating repetitive tasks to boost productivity
+- 📦 Containerizing applications for consistency across environments  
+- 🔄 Building reliable CI/CD pipelines that ship code confidently
+- 🌐 Creating beautiful, performant user experiences
+- 📚 Continuous learning and sharing knowledge with the community
+
+### 🌱 Currently Exploring
+- Advanced Kubernetes patterns and best practices
+- Infrastructure cost optimization strategies
+- Serverless architectures and microservices
+- Cloud security and compliance automation
 
 ## 🛠️ Technical Arsenal
 
@@ -156,11 +218,16 @@ October 6 University, Faculty of Computer Science
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=hema0101&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+<a href="https://github.com/hema0101">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hema0101&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&border_radius=10" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hema0101&layout=compact&theme=radical&hide_border=true&langs_count=8&border_radius=10&card_width=320" alt="Top Languages" />
+</a>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hema0101&theme=radical&hide_border=true" alt="GitHub Streak" />
+</div>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hema0101&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hema0101&theme=radical&hide_border=true&border_radius=10" alt="GitHub Streak" />
 
 </div>
 
